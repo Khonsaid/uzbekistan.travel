@@ -12,6 +12,7 @@ Uzbekistan Travel is your ultimate guide to exploring the most beautiful places 
 ## ✨ Features
 ✅ User-friendly interface  
 ✅ Detailed information about tourist attractions
+
 ✅ High-quality images 
 
 ---
